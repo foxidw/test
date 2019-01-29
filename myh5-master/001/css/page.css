@@ -13,6 +13,7 @@ div{
 #c{
     background-color: #acff30;
     animation: c 10s infinite;
+    animation-timing-function: linear;
 }
 #x{
     background-color: #ee4433;
